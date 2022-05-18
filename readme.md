@@ -1,8 +1,8 @@
 ## ᴀʙᴏᴜᴛ ᴍᴇ
 
-- :palm_tree: _I am currently in college_
-- :herb: _My goal for 2022 is to learn more about development_
-- :seedling: _Studying Python and C_
+- 📓 _I am currently in college_
+- 🌑 _My goal for 2022 is to learn more about development_
+- 🕷️ _Studying Python and C_
 
 >It's fine to celebrate success but it is more important to heed the lessons of failure.
 
