@@ -1,8 +1,8 @@
 ## ᴀʙᴏᴜᴛ ᴍᴇ
 
-- 📓 _I am currently in college_
-- 🌑 _My goal for 2022 is to learn more about development_
-- 🕷️ _Studying Python and C++(arduino)_
+- 📓 _Atualmente estudande de Ciências da Computação_
+- 🌑 _Meta para 2022 conseguir desenvolver meu primeiro jogo_
+- 🕷️ _Estudando Python e C++(arduino)_
 
 >It's fine to celebrate success but it is more important to heed the lessons of failure.
 
