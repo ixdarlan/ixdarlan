@@ -1,8 +1,8 @@
 ## ᴀʙᴏᴜᴛ ᴍᴇ
 
-- 📓 _Atualmente estudante de Ciências da Computação_
-- 🌑 _Minha meta para 2022 é conseguir desenvolver meu primeiro jogo_
-- 🕷️ _Estudando Python e C++(arduino)_
+- 📓 _Atualmente estudante de Ciências da Computação na UNIFESO_
+- 🌑 _Minha meta para 2022 focar mais em projetos mais básico e montar um bom portfolio_
+- 🕷️ _Estudando Python e JAVA_
 
 >It's fine to celebrate success but it is more important to heed the lessons of failure.
 
