@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=header"/>
+
 ## ꜱᴏʙʀᴇ ᴍɪᴍ
 
 - 📓 _Atualmente estudante de Ciências da Computação na UNIFESO_
@@ -11,3 +13,5 @@
   <img align="left" alt="ixdarlan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ixdarlan&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details> 
+
+[![Darlan github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ixdarlan&bg_color=0d1117&color=ffffff&line=6b438b&point=6b438b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
