@@ -1,4 +1,4 @@
-## ᴀʙᴏᴜᴛ ᴍᴇ
+## ꜱᴏʙʀᴇ ᴍɪᴍ
 
 - 📓 _Atualmente estudante de Ciências da Computação na UNIFESO_
 - 🕷️ _Estudando JAVA, POO, Lógica de Programação_
