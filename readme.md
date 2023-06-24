@@ -1,8 +1,7 @@
 ## ᴀʙᴏᴜᴛ ᴍᴇ
 
 - 📓 _Atualmente estudante de Ciências da Computação na UNIFESO_
-- 🌑 _Minha meta para 2022 focar mais em projetos mais básico e montar um bom portfolio_
-- 🕷️ _Estudando Python e JAVA_
+- 🕷️ _Estudando JAVA, POO, Lógica de Programação_
 
 >It's fine to celebrate success but it is more important to heed the lessons of failure.
 
