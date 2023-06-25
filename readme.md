@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=31&pause=1000&color=9370DB&center=true&vCenter=true&width=1000&lines=Darlan+de+Alencar)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=31&pause=1000&color=9370DB&center=true&vCenter=true&width=1000&lines=Darlan+Alencar)](https://git.io/typing-svg)
 
 ## ꜱᴏʙʀᴇ ᴍɪᴍ
 
